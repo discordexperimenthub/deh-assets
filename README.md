@@ -14,7 +14,7 @@
 
 ### [Test Server Icons](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Test%20Server%20Icons)
 
-- [**Masked Links**](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Test%20Server%20Icons/markdown_support_masked_links.svg) by [@Suni29](https://github.com/Suni29)
+- [**Masked Links**](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Test%20Server%20Icons/markdown_support_masked_links.svg) by [@Zyrenth](https://github.com/Zyrenth)
 - Others by [@Pukimaa](https://github.com/Pukimaa)
 
 ### [Themed](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Themed)
