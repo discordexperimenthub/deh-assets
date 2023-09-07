@@ -1,0 +1,12 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Projects">
+<path d="M0 32C0 14.3269 14.3269 0 32 0H224C241.673 0 256 14.3269 256 32V224C256 241.673 241.673 256 224 256H32C14.3269 256 0 241.673 0 224V32Z" fill="#5865F2"/>
+<g id="Boxes">
+<rect id="Rectangle 920" x="46" y="64" width="96" height="128" rx="12" fill="white"/>
+<g id="Frame 17">
+<rect id="Rectangle 922" x="154" y="64" width="56.5581" height="56.5581" rx="8" fill="white"/>
+<rect id="Rectangle 921" x="154" y="132.558" width="56.5581" height="56.5581" rx="8" fill="white"/>
+</g>
+</g>
+</g>
+</svg>
