@@ -2,9 +2,9 @@
 
 ## Contributors
 
-- [**Logo**](https://github.com/discordexperimenthub/deh-assets/blob/main/svg/logo.svg) by [@IllagerCaptain](https://github.com/IllagerCaptain)
+- [**Logo**](https://github.com/discordexperimenthub/deh-assets/blob/main/svg/logo.svg) by [@IllagerCaptain](https://github.com/IllagerCaptain) and [@Pukimaa](https://github.com/Pukimaa)
 - [**Primary Banner**](https://github.com/discordexperimenthub/deh-assets/blob/main/svg/banner_primary.svg) by [@Pukimaa](https://github.com/Pukimaa)
-- [**Secondary Banner**](https://github.com/discordexperimenthub/deh-assets/blob/main/svg/banner_secondary.svg) by [@Lordcobcob](https://github.com/Lordcobcob)
+- [**Secondary Banner**](https://github.com/discordexperimenthub/deh-assets/blob/main/svg/banner_secondary.svg) by [@Lordcobcob](https://github.com/Lordcobcob) and [@Pukimaa](https://github.com/Pukimaa)
 - [**Stickers**](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Stickers) by [@Pukimaa](https://github.com/Pukimaa)
 
 ### [Role Icons](https://github.com/discordexperimenthub/deh-assets/tree/main/svg/Role%20Icons)
