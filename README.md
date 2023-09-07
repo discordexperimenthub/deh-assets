@@ -8,7 +8,6 @@ All assets together with the branding is made by [Pukima](https://pukima.site). 
 
 ### Community/Themed Icons
 
-- **2024 > [Logo: Pride Month](/Logos/Themed/2024/Pride/)** by [@Pukimaa](https://github.com/Pukimaa)
 - **2023 > [Logo: Summer](/Logos/Themed/2023/Summer/)** by [@AJtheCrocodile](https://github.com/AJtheCrocodile)
 - **2023 > [Logo: Discord's Birthday](/Logos/Themed/2023/Discords%208th%20Birthday/)** by [@Pukimaa](https://github.com/Pukimaa)
 - **2023 > [Logo: Pride Month](/Logos/Themed/2023/Pride/)** by [@Pukimaa](https://github.com/Pukimaa)
